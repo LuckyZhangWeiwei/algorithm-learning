@@ -4,7 +4,7 @@ namespace algorithm_learning.sort
 {
     public class BubbleSort
     {
-        public static void sort()
+        public static void Sort()
         {
             int[] arr = { 3, 44, 38, 5, 50, 48 };
 

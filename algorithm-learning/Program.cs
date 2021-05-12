@@ -7,9 +7,9 @@ namespace algorithm_learning
     {
         static void Main(string[] args)
         {
-            //SelectSort.Sort();
+            SelectSort.Sort();
 
-            BubbleSort.sort();
+            BubbleSort.Sort();
         }
     }
 }
