@@ -11,7 +11,13 @@ namespace algorithm_learning
 
             //BubbleSort.Sort();
 
-            InsertionSort.Sort();
+            //InsertionSort.Sort();
+            
+            {
+                int[] array = new int[] { 19, 97, 09, 17, 01, 08 };
+                QucikSort.Sort(array, 0, array.Length - 1);
+            }
+            
         }
     }
 }
